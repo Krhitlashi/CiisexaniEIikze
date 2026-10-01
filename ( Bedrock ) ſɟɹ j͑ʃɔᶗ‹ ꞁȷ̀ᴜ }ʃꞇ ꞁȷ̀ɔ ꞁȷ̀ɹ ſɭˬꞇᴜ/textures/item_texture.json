@@ -1,0 +1,340 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "apple": {
+      "textures": "textures/items/apple"
+    },
+    "apple_golden": {
+      "textures": "textures/items/apple_golden"
+    },
+    "arrow": {
+      "textures": "textures/items/arrow"
+    },
+    "axe": {
+      "textures": [
+        "textures/items/wood_axe",
+        "textures/items/stone_axe",
+        "textures/items/iron_axe",
+        "textures/items/gold_axe",
+        "textures/items/diamond_axe",
+        "textures/items/netherite_axe"
+      ]
+    },
+    "beef_cooked": {
+      "textures": "textures/items/beef_cooked"
+    },
+    "beef_raw": {
+      "textures": "textures/items/beef_raw"
+    },
+    "blaze_rod": {
+      "textures": "textures/items/blaze_rod"
+    },
+    "boat": {
+      "textures": [
+        "textures/items/boat_oak",
+        "textures/items/boat_spruce",
+        "textures/items/boat_birch",
+        "textures/items/boat_jungle",
+        "textures/items/boat_acacia",
+        "textures/items/boat_darkoak",
+        "textures/items/mangrove_boat",
+        "textures/items/bamboo_raft",
+        "textures/items/cherry_boat",
+        "textures/items/pale_oak_boat"
+      ]
+    },
+    "bone": {
+      "textures": "textures/items/bone"
+    },
+    "book_enchanted": {
+      "textures": "textures/items/book_enchanted"
+    },
+    "book_normal": {
+      "textures": "textures/items/book_normal"
+    },
+    "book_writable": {
+      "textures": "textures/items/book_writable"
+    },
+    "book_written": {
+      "textures": "textures/items/book_written"
+    },
+    "book_portfolio": {
+      "textures": "textures/items/book_portfolio"
+    },
+    "boots": {
+      "textures": [
+        "textures/items/leather_boots",
+        "textures/items/chainmail_boots",
+        "textures/items/iron_boots",
+        "textures/items/gold_boots",
+        "textures/items/diamond_boots",
+        "textures/items/netherite_boots"
+      ]
+    },
+    "bowl": {
+      "textures": "textures/items/bowl"
+    },
+    "brewing_stand": {
+      "textures": "textures/items/brewing_stand"
+    },
+    "bucket": {
+      "textures": [
+        "textures/items/bucket_empty",
+        "textures/items/bucket_milk",
+        "textures/items/bucket_water",
+        "textures/items/bucket_lava",
+        "textures/items/bucket_cod",
+        "textures/items/bucket_salmon",
+        "textures/items/bucket_tropical",
+        "textures/items/bucket_pufferfish",
+        "textures/items/bucket_powder_snow",
+        "textures/items/bucket_axolotl",
+        "textures/items/bucket_tadpole"
+      ]
+    },
+    "cake": {
+      "textures": "textures/items/cake"
+    },
+    "carrot_on_a_stick": {
+      "textures": "textures/items/carrot_on_a_stick"
+    },
+    "chestplate": {
+      "textures": [
+        "textures/items/leather_chestplate",
+        "textures/items/chainmail_chestplate",
+        "textures/items/iron_chestplate",
+        "textures/items/gold_chestplate",
+        "textures/items/diamond_chestplate",
+        "textures/items/netherite_chestplate"
+      ]
+    },
+    "comparator": {
+      "textures": "textures/items/comparator"
+    },
+    "diamond": {
+      "textures": "textures/items/diamond"
+    },
+    "iron_door": {
+      "textures": "textures/items/door_iron"
+    },
+    "wooden_door": {
+      "textures": "textures/items/door_wood"
+    },
+    "dye_powder": {
+      "textures": [
+        "textures/items/dye_powder_black",
+        "textures/items/dye_powder_red",
+        "textures/items/dye_powder_green",
+        "textures/items/dye_powder_brown",
+        "textures/items/dye_powder_blue",
+        "textures/items/dye_powder_purple",
+        "textures/items/dye_powder_cyan",
+        "textures/items/dye_powder_silver",
+        "textures/items/dye_powder_gray",
+        "textures/items/dye_powder_pink",
+        "textures/items/dye_powder_lime",
+        "textures/items/dye_powder_yellow",
+        "textures/items/dye_powder_light_blue",
+        "textures/items/dye_powder_magenta",
+        "textures/items/dye_powder_orange",
+        "textures/items/dye_powder_white",
+        "textures/items/dye_powder_black_new",
+        "textures/items/dye_powder_brown_new",
+        "textures/items/dye_powder_blue_new",
+        "textures/items/dye_powder_white_new",
+        "textures/items/dye_powder_glow"
+      ]
+    },
+    "egg": {
+      "textures": "textures/items/egg"
+    },
+    "emerald": {
+      "textures": "textures/items/emerald"
+    },
+    "fishing_rod": {
+      "textures": [
+        "textures/items/fishing_rod_uncast",
+        "textures/items/fishing_rod_cast"
+      ]
+    },
+    "flint_and_steel": {
+      "textures": "textures/items/flint_and_steel"
+    },
+    "helmet": {
+      "textures": [
+        "textures/items/leather_helmet",
+        "textures/items/chainmail_helmet",
+        "textures/items/iron_helmet",
+        "textures/items/gold_helmet",
+        "textures/items/diamond_helmet",
+        "textures/items/netherite_helmet"
+      ]
+    },
+    "hoe": {
+      "textures": [
+        "textures/items/wood_hoe",
+        "textures/items/stone_hoe",
+        "textures/items/iron_hoe",
+        "textures/items/gold_hoe",
+        "textures/items/diamond_hoe",
+        "textures/items/netherite_hoe"
+      ]
+    },
+    "leggings": {
+      "textures": [
+        "textures/items/leather_leggings",
+        "textures/items/chainmail_leggings",
+        "textures/items/iron_leggings",
+        "textures/items/gold_leggings",
+        "textures/items/diamond_leggings",
+        "textures/items/netherite_leggings"
+      ]
+    },
+    "map_empty": {
+      "textures": "textures/items/map_empty"
+    },
+    "map_filled": {
+      "textures": [
+        "textures/items/map_filled",
+        "textures/items/map_filled",
+        "textures/items/map_filled",
+        "textures/items/map_monument",
+        "textures/items/map_mansion",
+        "textures/items/map_nautilus",
+        "textures/items/map_locked",
+        "textures/items/map_filled",
+        "textures/items/map_filled",
+        "textures/items/map_filled",
+        "textures/items/map_filled",
+        "textures/items/map_filled",
+        "textures/items/map_filled",
+        "textures/items/map_filled",
+        "textures/items/map_trial_chambers"
+      ]
+    },
+    "melon": {
+      "textures": "textures/items/melon"
+    },
+    "mushroom_stew": {
+      "textures": "textures/items/mushroom_stew"
+    },
+    "beetroot_soup": {
+      "textures": "textures/items/beetroot_soup"
+    },
+    "name_tag": {
+      "textures": "textures/items/name_tag"
+    },
+    "pickaxe": {
+      "textures": [
+        "textures/items/wood_pickaxe",
+        "textures/items/stone_pickaxe",
+        "textures/items/iron_pickaxe",
+        "textures/items/gold_pickaxe",
+        "textures/items/diamond_pickaxe",
+        "textures/items/netherite_pickaxe"
+      ]
+    },
+    "potion_bottle_empty": {
+      "textures": "textures/items/potion_bottle_empty"
+    },
+    "redstone_dust": {
+      "textures": "textures/items/redstone_dust"
+    },
+    "reeds": {
+      "textures": "textures/items/reeds"
+    },
+    "repeater": {
+      "textures": "textures/items/repeater"
+    },
+    "shears": {
+      "textures": "textures/items/shears"
+    },
+    "shovel": {
+      "textures": [
+        "textures/items/wood_shovel",
+        "textures/items/stone_shovel",
+        "textures/items/iron_shovel",
+        "textures/items/gold_shovel",
+        "textures/items/diamond_shovel",
+        "textures/items/netherite_shovel"
+      ]
+    },
+    "sign": {
+      "textures": "textures/items/sign"
+    },
+    "sign_acacia": {
+      "textures": "textures/items/sign_acacia"
+    },
+    "sign_birch": {
+      "textures": "textures/items/sign_birch"
+    },
+    "sign_darkoak": {
+      "textures": "textures/items/sign_darkoak"
+    },
+    "sign_jungle": {
+      "textures": "textures/items/sign_jungle"
+    },
+    "sign_spruce": {
+      "textures": "textures/items/sign_spruce"
+    },
+    "spider_eye": {
+      "textures": "textures/items/spider_eye"
+    },
+    "spider_eye_fermented": {
+      "textures": "textures/items/spider_eye_fermented"
+    },
+    "stick": {
+      "textures": "textures/items/stick"
+    },
+    "suspicious_stew": {
+      "textures": "textures/items/suspicious_stew"
+    },
+    "sword": {
+      "textures": [
+        "textures/items/wood_sword",
+        "textures/items/stone_sword",
+        "textures/items/iron_sword",
+        "textures/items/gold_sword",
+        "textures/items/diamond_sword",
+        "textures/items/netherite_sword"
+      ]
+    },
+    "compass_item": {
+      "textures": "textures/items/compass_item"
+    },
+    "rabbit_stew": {
+      "textures": "textures/items/rabbit_stew"
+    },
+    "totem": {
+      "textures": "textures/items/totem"
+    },
+    "trident": {
+      "textures": "textures/items/trident"
+    },
+    "turtle_helmet": {
+      "textures": "textures/items/turtle_helmet"
+    },
+    "sweet_berries": {
+      "textures": "textures/items/sweet_berries"
+    },
+    "warped_sign_item": {
+      "textures": "textures/items/sign_warped"
+    },
+    "crimson_sign_item": {
+      "textures": "textures/items/sign_crimson"
+    },
+    "warped_fungus_on_a_stick": {
+      "textures": "textures/items/warped_fungus_on_a_stick"
+    },
+    "chain": {
+      "textures": "textures/items/chain"
+    },
+    "bamboo_sign": {
+      "textures": "textures/items/bamboo_sign"
+    },
+    "cherry_sign": {
+      "textures": "textures/items/cherry_sign"
+    }
+  }
+}
