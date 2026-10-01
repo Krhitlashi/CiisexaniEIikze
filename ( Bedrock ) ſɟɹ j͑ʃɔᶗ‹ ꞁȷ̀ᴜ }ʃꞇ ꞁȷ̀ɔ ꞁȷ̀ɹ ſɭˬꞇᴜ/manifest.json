@@ -1,18 +1,18 @@
 {
   "format_version": 2,
   "header": {
-    "description": "j͐ʃэƣ̋ ꞁȷ̀ᴜ ſɭˬꞇ ſ̀ȷᴜ ı],ꞇ",
-    "name": "ſɟɹ j͑ʃɔᶗ‹ ꞁȷ̀ᴜ }ʃꞇ ꞁȷ̀ɔ ꞁȷ̀ɹ ſɭˬꞇᴜ",
+    "description": "j͐ʃэƣ̋ ꞁȷ̀ᴜ ſɭˬꞇ ſ̀ȷᴜ ı],ꞇ ſɭᴜͷ̗",
+    "name": "ſɟɹ j͑ʃɔᶗ‹ ꞁȷ̀ᴜ }ʃꞇ ꞁȷ̀ɔ ꞁȷ̀ɹ ſɭˬɔ",
     "uuid": "8f6a535f-4fb5-4e03-8635-edf6dd07e983",
     "version": [
       0,
-      14,
+      15,
       0
     ],
     "min_engine_version": [
       1,
-      21,
-      0
+      26,
+      50
     ]
   },
   "modules": [
@@ -22,12 +22,9 @@
       "uuid": "079ad375-887e-4458-8903-3303e27c4a64",
       "version": [
         0,
-        14,
+        15,
         0
-      ],
-      "entry": null,
-      "language": null
+      ]
     }
-  ],
-  "dependencies": null
+  ]
 }
